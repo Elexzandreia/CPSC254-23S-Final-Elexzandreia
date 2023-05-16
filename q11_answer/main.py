@@ -1,7 +1,6 @@
 from user import *
 
 def main():
-
     print("AD: Hello! This is a paid advertisment from a nearby restaurant")
     username = input("Please enter your username: ")
     password = input("please enter your password: ")
